@@ -1,5 +1,5 @@
 ### Hi I'm Elvis Shi 👋
-<p>I have 15 years old experience focus on supply chain . I find that in this professional field . No freedom customize software can support out business deeply . Any software are closed-source and hardly to customize or dynamic with our suppliers & customers . So I design GreaterWMS , in order to give business highest freedom way to support trade development .</p>
+<p>I have 15 years old experience focus on supply chain . I find that in this professional field . No freedom customize software can support our business deeply . Any software are closed-source and hardly to customize or dynamic with our suppliers & customers . So I design GreaterWMS , in order to give business highest freedom way to support trade development .</p>
 <p>🔭 My career:</p>
 <p>2016-2012  Unilevery China</p>
 <p>2012-2013  Autoliv China</p>

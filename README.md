@@ -10,7 +10,7 @@
 <p>Each email you can contact me at once</p>
 <p>:email: singosgu@gmail.com</p>
 <p>:email: 769373425@qq.com</p>
-<img display="inline-block" src="https://github-readme-stats.vercel.app/api?username=ChoGathK&count_private=true&show_icons=true"/>
+<img display="inline-block" src="https://github-readme-stats.vercel.app/api?username=Singosgu&count_private=true&show_icons=true"/>
 <!--
 **Singosgu/Singosgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

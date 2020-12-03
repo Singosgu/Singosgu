@@ -6,7 +6,7 @@
 <p>2013-2017  Ford APA</p>
 <p>2017 to present HuaJu China</p>
 
-<p>📫 How to reach me:</p>
+<p>📫 How to touch me:</p>
 <p>Each email you can contact me at once</p>
 <p>:email: singosgu@gmail.com</p>
 <p>:email: 769373425@qq.com</p>

@@ -1,6 +1,4 @@
 ### Hi I'm Elvis Shi 👋
----
-
 I have 15 years old experience focus on supply chain . I find that in this professional field . No freedom customize software can support our business deeply . Any software are closed-source and hardly to customize or dynamic with our suppliers & customers . So I design GreaterWMS , in order to give business highest freedom way to support trade development .
 
 🔭 My career:
@@ -9,10 +7,10 @@ I have 15 years old experience focus on supply chain . I find that in this profe
 - 2013-2017  Ford APA
 - 2017 to present HuaJu China
 
-<p>📫 How to touch me:</p>
-<p>Each email you can contact me at once</p>
-<p>:email: singosgu@gmail.com</p>
-<p>:email: 769373425@qq.com</p>
+📫 How to touch me:
+Each email you can contact me at once
+- :email: singosgu@gmail.com
+- :email: 769373425@qq.com
 <img display="inline-block" src="https://github-readme-stats.vercel.app/api?username=Singosgu&count_private=true&show_icons=true"/>
 <!--
 **Singosgu/Singosgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

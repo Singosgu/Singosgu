@@ -5,7 +5,7 @@ I have 15 years old experience focus on supply chain . I find that in this profe
 - 2016-2012  Unilevery China
 - 2012-2013  Autoliv China
 - 2013-2017  Ford APA
-- 2017 to present HuaJu China
+- 2017 to present GreaterWMS
 
 📫 How to touch me:
 Each email you can contact me at once

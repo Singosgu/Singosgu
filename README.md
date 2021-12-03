@@ -9,8 +9,8 @@ I have 15 years old experience focus on supply chain . I find that in this profe
 
 📫 How to touch me:
 Each email you can contact me at once
-- :email: singosgu@gmail.com
-- :email: 769373425@qq.com
+- :email: elvis.shi@56yhz.com
+
 <img display="inline-block" src="https://github-readme-stats.vercel.app/api?username=Singosgu&count_private=true&show_icons=true"/>
 <!--
 **Singosgu/Singosgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
